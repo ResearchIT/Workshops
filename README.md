@@ -41,11 +41,10 @@ Michael Hofmockel - LAS Research IT Director
 - Achieving repeatability
 - Types of HPC Architecture
 - MPI "Hello World"
+- "How best to use X system" CyEnce, Condo, BigRam, BioCrunch, ...
 - Parallelization
 - Accelerators
-- "How best to use X system" CyEnce, Condo, BigRam, BioCrunch, ...
-- Building repeatable pipelines
-- Open Workshop Time
+- Regular Open Workshop Time
 
 **Potential Instructors**
 
