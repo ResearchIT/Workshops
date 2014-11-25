@@ -1,14 +1,14 @@
-Concepts on the path to HPC and Research IT - Draft
+Workshops on the path to HPC and Research IT
 =============================
 A proposed set of workshops for ISU Researchers challenged with high-end Research IT needs.
 ---------------------------------------------------
-Michael Hofmockel - LAS Research IT Director
+*Michael Hofmockel* - LAS Research IT Director
 
 *your name here*
 
 **Caveats:**
 
-- Researchers are potentially faculty, staff, post-doctoral fellows and graduate students but generally not undergraduates.
+- Researchers are potentially; faculty, staff, post-doctoral fellows and graduate students but generally not undergraduates.
 - HPC is High Performance Computing. This implies speed, not any particular architecture.
 - Researchers have needs for both parallel and serial processing.
 
@@ -87,8 +87,7 @@ Michael Hofmockel - LAS Research IT Director
 
 - Peers
 
-**Categories - The ontology of your content**
-[ontology](http://en.wikipedia.org/wiki/Ontology_(information_science))
+**Categories - The [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) of your content**
 
 Research, Academic, Research IT, Information Technology, IT, HPC, High Peformance Computing, Workshop, Isilon
 
