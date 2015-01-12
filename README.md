@@ -8,7 +8,7 @@ A proposed set of workshops for ISU Researchers challenged with high-end Researc
 
 **Caveats:**
 
-- Researchers are potentially; faculty, staff, post-doctoral fellows and graduate students but generally not undergraduates.
+- Researchers are potentially; faculty, staff, post-docs, graduate students, undergrads involved in research.
 - HPC is High Performance Computing. This implies speed, not any particular architecture.
 - Researchers have needs for both parallel and serial processing.
 
