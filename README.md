@@ -1,10 +1,7 @@
-Workshops on the path to HPC and Research IT
+Research IT Workshops
 =============================
 A proposed set of workshops for ISU Researchers challenged with high-end Research IT needs.
 ---------------------------------------------------
-*Michael Hofmockel* - LAS Research IT Director
-
-*your name here*
 
 **Caveats:**
 
@@ -25,67 +22,62 @@ A proposed set of workshops for ISU Researchers challenged with high-end Researc
 - Open Access
 
 **Workshop/Concept Titles**
--- default [shell changed to bash](http://www.biology-it.iastate.edu/prerequisites-logging-bigram-and-biocrunch) prior to workshop. 
 
-- SSH, Shell, Isilon storage - LAS Infrastructure IT and/or BIT
-- Taught: once a semester
--- A netted laptop with ssh provided or bring your own.
--- Isilon storage has to be requested and approved in advance
--- default shell changed to bash prior to workshop
+- Linux: Basics
+	- Taught: once a semester
+	- A laptop with ssh provided or bring your own.
+	- Isilon storage has to be requested and approved in advance
+	- default shell changed to bash prior to workshop
 
-- Bash Scripting - LAS Infrastructure IT and/or BIT
-- Taught: once a month as an open workshop
--- A netted laptop with ssh provided by BIT or bring your own.
--- A sandbox supplied by BIT
--- default shell changed to Bash prior to workshop
+- Linux: Command line Deep Dive
+	- Taught: once a month as an open workshop
+	- A laptop with ssh provided by BIT or bring your own.
+	- A sandbox supplied by BIT
+	- default shell changed to Bash prior to workshop
 
-- Version Control with GIT - LAS Infrastructure IT and/or BIT
-- Taught: once a month as an open workshop
--- A netted laptop with SSH and GIT, provided by BIT or bring your own.
--- A GitHub repository cloned locally
--- A BitBucket repository cloned locally
+- Linux: String Manipulation
+	- grep, sed, awk
 
-- Databases and SQL - LAS Infrastructure IT and/or BIT
-- Taught: once a month as an open workshop
--- A netted laptop with SSH and GIT, provided by BIT or bring your own.
--- A MySQL sandbox supplied by BIT or bring your own.
--- default shell changed to Bash prior to workshop
-- Relational use cases
-- NoSQL use cases
+- Linux: Job Management
+	- Logs
+	- Checkpoints
+	- Performance troubleshooting / tuning
 
-- Data Management
-- Taught: once a month as an open workshop
--- Directory Structure
--- Data Workflows
--- programmatic QA/QC with SQL 
+- Machine Resources & Software Development Best Practices
+	- HPC Architectures
+	- How to identify the right place to run your computation
+	- Bottleneck types
+	- Documentation methods
+	- Testing and debugging
+	- From raw data to graph, programmatically
 
-- Software Development Best Practices
-- Taught: once a month as an open workshop
--- Basic Software Engineering concepts
--- Documentation methods
--- Testing and Debugging
--- Optimization
--- Achieving repeatability and Performance
--- from raw data to graph, programmatically
+- Data & Code Management
+	- Taught: once a month as an open workshop
+	- Directory Structure
+	- Data Workflows
+	- Workgroup collaboration tools 
+	- A GitHub repository cloned locally
+	- A BitBucket repository cloned locally
 
-- Jump into Python
-- Jump into R
-- HPC Architectures
-- Jump start into CyEnce and/or CONDO
-- Jump start into BigRam, BioCrunch, BIT resources
-- Serial processing
-- Parallel processing
-- Accelerators
-- Regular Open Workshop Time
+
+-Possible future topics
+	- Jump into Python
+	- Jump into R
+	- Jump start into PBS & SLRUM 
+	- Jump start into BigRam, BioCrunch, BIT resources
+	- Serial processing
+	- Parallel processing
+	- Accelerators
+	- Regular Open Workshop Time
+	- Databases and SQL
+		- Taught: once a month as an open workshop
+		- A laptop with SSH and GIT, provided by BIT or bring your own.
+		- A MySQL sandbox supplied by BIT or bring your own.
+		- default shell changed to Bash prior to workshop
+		- Relational use cases
+		- NoSQL use cases
 
 **Potential Instructors**
-
-- Faculty
-
-- IT Staff
--- Michael Hofmockel, ...
-
-- Peers
 
 **Categories - The [ontology](http://en.wikipedia.org/wiki/Ontology_(information_science)) of your content**
 
