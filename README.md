@@ -60,7 +60,7 @@ A proposed set of workshops for ISU Researchers challenged with high-end Researc
 	- A BitBucket repository cloned locally
 
 
--Possible future topics
+- Possible future topics
 	- Jump into Python
 	- Jump into R
 	- Jump start into PBS & SLRUM 
